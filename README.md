@@ -7,7 +7,7 @@ Developer
 I graduated with a degree in Computer Science. I have a desire to develop a website that is widely known.
 
 * 🌍  I'm based in Songkhla
-* 🖥️  See my portfolio at [MyPortfolio-New]([http://MyPortfolio-New.com](https://my-portfolio-rust-xi-35.vercel.app/))
+* 🖥️  See my portfolio at [MyPortfolio-New](https://my-portfolio-rust-xi-35.vercel.app/)
 * ✉️  You can contact me at [pogsak.pp04@gmail.com](mailto:pogsak.pp04@gmail.com)
 * 🧠  I'm learning Angular , Next.js , TypeScript , C#.NET
 
